@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sun Sep 25 10:44:08 2022
+# Process ID: 29888
+# Current directory: C:/Users/14693/lab2_Asim/lab2_Asim.runs/impl_1
+# Command line: vivado.exe -log decoder4to16.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source decoder4to16.tcl -notrace
+# Log file: C:/Users/14693/lab2_Asim/lab2_Asim.runs/impl_1/decoder4to16.vdi
+# Journal file: C:/Users/14693/lab2_Asim/lab2_Asim.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source decoder4to16.tcl -notrace
