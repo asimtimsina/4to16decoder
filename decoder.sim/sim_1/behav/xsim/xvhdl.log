@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/14693/lab2_Asim/lab2_Asim.srcs/sources_1/new/4to16_decoder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'decoder4to16'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/14693/lab2_Asim/lab2_Asim.srcs/sim_1/new/decoder4to16_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'decoder4to16_tb'
